@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hello there! I'm BirdMan 🐦‍🔥</h1>
 
-<!--
-**BirdMan58/BirdMan58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- A cyber security student & a Dev!
+- Build things for the love of game!
+- Writing code and occasionally making it work!
+- Currently figuring things out!
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,go,java,bash,linux,git,python,mysql,js,vscode,arduino" />
+</p>
+
+<br>
+
+## GitHub Activity
+
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BirdMan58&theme=nord_dark"/>
