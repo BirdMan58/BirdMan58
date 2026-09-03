@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! I'm BirdMan 🐦‍🔥</h1>
+<h1 align="center">Hello there! I'm BirdMan 🪶</h1>
 
 ## About Me
 - A cyber security student & a Dev!
